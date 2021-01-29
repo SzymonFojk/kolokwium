@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/szymon/Pulpit/kolo/kolokwium/kol_1/zad3/src/Student.cpp
+iostream
+-
+Student.h
+/home/szymon/Pulpit/kolo/kolokwium/kol_1/zad3/src/Student.h
+

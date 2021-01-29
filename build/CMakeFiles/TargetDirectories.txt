@@ -1,0 +1,4 @@
+/home/szymon/Pulpit/kolo/kolokwium/kol_1/build/CMakeFiles/rebuild_cache.dir
+/home/szymon/Pulpit/kolo/kolokwium/kol_1/build/CMakeFiles/edit_cache.dir
+/home/szymon/Pulpit/kolo/kolokwium/kol_1/build/CMakeFiles/Student.dir
+/home/szymon/Pulpit/kolo/kolokwium/kol_1/build/CMakeFiles/lib.dir

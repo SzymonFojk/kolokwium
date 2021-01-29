@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Student.dir/home/szymon/Pulpit/kolo/kolokwium/kol_1/zad3/src/Student.cpp.o  -o Student   -L/home/szymon/Pulpit/kolo/kolokwium/kol_1/build/../zad3/include 
